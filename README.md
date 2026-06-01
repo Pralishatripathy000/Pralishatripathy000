@@ -156,11 +156,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
 </div>
 
-###
-
-<p align="left">My interests span Machine Learning, Agentic AI, LLMOps, Data Engineering, Recommendation Systems, NLP, RAG Pipelines, and Intelligent Automation. I'm particularly fascinated by how data, models, and software systems come together to create products that deliver measurable real-world impact.<br><br>Currently, I'm working on Audit Intelligence Platform, where I'm exploring anomaly detection, risk analytics, and explainable AI to help uncover financial irregularities and support smarter audit workflows. I'm also experimenting with a two-layer LLM fine-tuning project - Lucid , exploring how specialized language models can be adapted and orchestrated to improve domain-specific performance, reasoning capabilities, and response quality.</p>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pralishatripathy000/Pralishatripathy000/pacman-output/pacman-contribution-graph-dark.svg">
