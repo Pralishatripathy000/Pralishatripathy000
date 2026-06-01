@@ -30,10 +30,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pralishatripathy000&show_icons=true&theme=midnight-purple&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pralishatripathy000&layout=compact&theme=midnight-purple&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pralishatripathy000&show_icons=true&theme=midnight-purple&hide_border=false" height="180" alt="GitHub Stats" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pralishatripathy000&layout=compact&theme=midnight-purple&hide_border=false" height="180" alt="Top Languages" />
+</div>
 ###
 
 <h3 align="center">🛠 Language and tools</h3>
