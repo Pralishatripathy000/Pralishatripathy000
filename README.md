@@ -30,9 +30,8 @@
 ###
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Pralishatripathy000&show_icons=true&theme=midnight-purple" height="150" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pralishatripathy000&layout=compact&theme=midnight-purple" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pralishatripathy000&show_icons=true&theme=midnight-purple&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pralishatripathy000&layout=compact&theme=midnight-purple&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
