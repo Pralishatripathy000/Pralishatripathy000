@@ -160,7 +160,7 @@
 
 ###
 
-<h5 align="center">Let's Connect!<br><br>I enjoy discussing technology, exchanging ideas, exploring new research, and collaborating on interesting projects.</h5>
+<h4 align="center">Let's Connect!<br><br>I enjoy discussing technology, exchanging ideas, exploring new research, and collaborating on interesting projects.</h4>
 
 
 
@@ -172,7 +172,7 @@
 </picture>
 
 ###
-<h5 align="center">Pull up a chair. The coffee is warm, the models are training, and the owl knows where to find me !☕🦉✨</h5>
+<h4 align="center">Pull up a chair. The coffee is warm, the models are training, and the owl knows where to find me !☕🦉✨</h4>
 
 
 ###
