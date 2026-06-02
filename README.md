@@ -12,9 +12,9 @@
 
 <h3 align="center">🪄 Machine Learning • Agentic AI • LLMOps • Data Engineering </h3>
 
-<h4 align="center">🧪 Currently building: AuditIQ • Lucid • GitIntel </h4>
+<h4 align="center">🧪 Currently building : AuditIQ • Lucid • GitIntel </h4>
 
-###
+### 
 
 
 
