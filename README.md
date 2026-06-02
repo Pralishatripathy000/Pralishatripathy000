@@ -9,7 +9,6 @@
 
 ###
 
-<h6 align="center">The Ministry has forbidden Time-Turners. So I built predictive models instead!🧙‍♀️</h6>
 
 <h3 align="center">🪄 Machine Learning • Agentic AI • LLMOps • Data Engineering </h3>
 
