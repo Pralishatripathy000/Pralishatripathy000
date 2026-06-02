@@ -13,11 +13,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pralishatripathy000.Pralishatripathy000&"  />
-</div>
 
-###
 
 <h3 align="center">🔥   My Stats :</h3>
 
@@ -154,6 +150,11 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pralishatripathy000.Pralishatripathy000&"  />
+</div>
+
+###
 
 <h5 align="center">Let's Connect!<br><br>I enjoy discussing technology, exchanging ideas, exploring new research, and collaborating on interesting projects.</h5>
 
