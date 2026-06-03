@@ -11,11 +11,6 @@
  </div>
 
 
-<h2 align="center">Not all magic comes from wands. Some comes from data, coffee, and an unreasonable amount of debugging 🪄✨☕💻</h2>
-
-###
-
-
 <h3 align="center">🪄 Machine Learning • Agentic AI • LLMOps • Data Engineering </h3>
 
 <h4 align="center">🧪 Currently building : AuditIQ • Lucid • GitIntel </h4>
