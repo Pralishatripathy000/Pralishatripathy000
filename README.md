@@ -1,7 +1,5 @@
 <div align="center">
   <img width="1983" height="793" alt="c22bec42-24a8-47ac-bc9c-425c67d4f621" src="https://github.com/user-attachments/assets/6483d2b9-117a-48a8-bd55-841cee235fde" 
-  <h3 style="background:#000; color:#fff; font-family:'Harry P', 'Cinzel Decorative', serif; font-size:28px; padding:10px 18px; letter-spacing:1px; width:100%; box-sizing:border-box;">Not all magic comes from wands. Some comes from data, coffee, and an unreasonable amount of debugging </h3>
-/>
 
 </div>
 
