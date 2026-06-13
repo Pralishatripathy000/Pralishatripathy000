@@ -23,9 +23,8 @@
 
 <b>STATUS → BUILDING</b>
 
-<br><br>
 
-<h4><i>AuditIQ • Lucid • GitIntel</i></h4>
+<h3><i>AuditIQ • Lucid • GitIntel</i></h3>
 
 </div>
 
