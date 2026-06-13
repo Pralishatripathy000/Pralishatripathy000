@@ -19,7 +19,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7DD3FC&center=true&vCenter=true&width=435&lines=Machine+Learning;Agentic+AI;LLMOps;Data+Engineering)](https://git.io/typing-svg)
 
-<br>
 
 <b>STATUS → BUILDING</b>
 
