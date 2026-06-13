@@ -6,9 +6,9 @@
 </div>
 <div align="center">
 
+<img width="1774" height="887" alt="0d6a595f-d39d-4b23-8274-4cba0b175bcd" src="https://github.com/user-attachments/assets/7a02a554-b078-4b32-9a68-d66184275ef9" />
 
- <img width="1983" height="529" alt="ca21cd6e-bbf9-4faf-9fb4-a7030e069d32" src="https://github.com/user-attachments/assets/1abe0b28-0f27-4094-a04f-ffc7416b1556" />
-
+ 
  </div>
 
 
