@@ -11,10 +11,26 @@
  
  </div>
 
+<div align="center">
 
-<h3 align="center">🪄 Machine Learning • Agentic AI • LLMOps • Data Engineering </h3>
+```bash
+<div align="center">
 
-<h4 align="center">🧪 Currently building : AuditIQ • Lucid • GitIntel </h4>
+<h3><code>AI.SYSTEMS()</code></h3>
+
+<pre>
+[ACTIVE] Machine Learning
+[ACTIVE] Agentic AI
+[ACTIVE] LLMOps
+[ACTIVE] Data Engineering
+
+STATUS → BUILDING
+</pre>
+
+<i>AuditIQ • Lucid • GitIntel</i>
+
+</div>
+</div>
 
 ### 
 
