@@ -106,6 +106,18 @@
 ---
 
 
+## ✨ Beyond the Code : 
+
+🧠 What Excites Me — intelligent agents, model reliability, data-driven products, system design, and turning ambitious ideas into working solutions.
+
+🚀 What Challenges Me — problems that force me to learn something new, think deeper, and build better than I did yesterday.
+
+⚔️ Powered By — curiosity, coffee, and an unreasonable attachment to Harry Potter, Studio Ghibli, Demon Slayer, and Game of Thrones.
+
+🤝 Open To — collaborations, research discussions, hackathons, open-source contributions, and interesting conversations.
+</div>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pralishatripathy000/Pralishatripathy000/pacman-output/pacman-contribution-graph-dark.svg">
