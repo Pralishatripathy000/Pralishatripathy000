@@ -105,13 +105,7 @@
 
 ---
 
-<h3 align="center">✨ Let's Connect</h3>
 
-<p align="center">
-I enjoy discussing technology, exchanging ideas, exploring new research, and collaborating on interesting projects.
-</p>
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pralishatripathy000/Pralishatripathy000/pacman-output/pacman-contribution-graph-dark.svg">
