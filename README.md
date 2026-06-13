@@ -13,19 +13,19 @@
 
 <div align="center">
 
-``bash
-
 <div align="center">
 
 ### `> AI.SYSTEMS()`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7DD3FC&center=true&vCenter=true&width=435&lines=Machine+Learning;Agentic+AI;LLMOps;Data+Engineering)](https://git.io/typing-svg)
 
-<sub><b>STATUS → BUILDING</b></sub>
+<br>
+
+<b>STATUS → BUILDING</b>
 
 <br><br>
 
-<i>AuditIQ • Lucid • GitIntel</i>
+<h4><i>AuditIQ • Lucid • GitIntel</i></h4>
 
 </div>
 
