@@ -37,11 +37,6 @@
 </p>
 
 <div align="center">
-  <img width="1180" height="793" alt="flagship_table" src="https://github.com/user-attachments/assets/284c6cbb-6085-473e-8ae4-0afe884ae49f" />
- 
-</div>
-
-<div align="center">
  
 ## ⚡ Ancient Runes
 *Languages I speak fluently*
