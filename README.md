@@ -168,5 +168,7 @@
 <p align="center">
 The coffee is warm, the models are training, and the owl knows where to find me. 🦉✨
 </p>
-
-
+yes
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWF0bjg5OHp1Z3AxOGwybzVyaWdhbjhpM3VvaGp0d3p6cHVyem93MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ezLqyIl3lDFf25py9/giphy.gif" alt="hedwig" width="300"/>
+</div>
