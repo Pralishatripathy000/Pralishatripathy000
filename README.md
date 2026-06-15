@@ -200,7 +200,7 @@
 
 ## ✨ Beyond the Code : 
 
-🧠 What Excites Me — intelligent agents, model reliability, data-driven products, system design, and turning ambitious ideas into working solutions.
+🧠 What Excites Me — good books, half-written stories, cities I haven't been to yet, cafes with the right kind of quiet, conversations that go somewhere unexpected, and people who have something real to say.
 
 🚀 What Challenges Me — problems that force me to learn something new, think deeper, and build better than I did yesterday.
 
