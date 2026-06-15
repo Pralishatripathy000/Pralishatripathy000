@@ -30,7 +30,9 @@ The unglamorous layer. The important one. The vibe? That's just me. ⚡</sub>
 
 </div>
 
-
+<div align="center">
+  <img src="https://i.pinimg.com/originals/3f/e5/8f/3fe58f9f8768f88c41ec74a118b78c58.gif" width="300" alt="hermione spell"/>
+</div>
 
 
 ---
@@ -62,10 +64,18 @@ The unglamorous layer. The important one. The vibe? That's just me. ⚡</sub>
 </div>
 
 ---
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pralishatripathy000&theme=react-dark&bg_color=0d1117&color=c792ea&line=7b2d8b&point=c792ea&area=true&hide_border=false&border_radius=5&area_color=2d1b54" alt="activity graph" width="100%"/>
+</div>
+
+
+
+
+---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pralishatripathy000&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Pralishatripathy000/Pralishatripathy000/master/profile-views-counter.svg" height="150" alt="visitors graph" />
+ 
 </div>
 
 
@@ -195,6 +205,7 @@ The unglamorous layer. The important one. The vibe? That's just me. ⚡</sub>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pralishatripathy000/Pralishatripathy000/pacman-output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pralishatripathy000/Pralishatripathy000/pacman-output/pacman-contribution-graph.svg">
 </picture>
+
 
 
 
