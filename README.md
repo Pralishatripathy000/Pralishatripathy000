@@ -22,19 +22,31 @@
 ---
 <div align="center">
 
-<h4><em>Most people see a problem. I see three layers beneath it — and I build from there.<br>
-I build what doesn't exist yet, with reasons no one thought to ask for.</em></h4>
+<br>
 
-<sub>GenAI Engineer working on Machine learning systems, LLM internals, RAG pipelines, multi-agent architectures, and data engineering.<br>
-The unglamorous layer. The important one. The vibe? That's just me. ⚡</sub>
+ *Most people see a problem. I see three layers beneath it — and I build from there.*
+ *I build what doesn't exist yet, with reasons no one thought to ask for.*
+
+ *GenAI Engineer working on LLM internals, RAG pipelines, machine learning systems, multi-agent architectures, and data engineering.*
+ *The unglamorous layer. The important one. The vibe? That's just me. ⚡*
+
+<br>
 
 </div>
+
+
+
+
+
+---
+
+
 
 <div align="center">
   <img src="https://github.com/Pralishatripathy000/Pralishatripathy000/blob/main/From%20Klickpin.com-%20Aesthetic%20morning%20routine%20ideas%20that%20make%20your%20next%20project%20look%20polished%20and%20expensive%20for%20ideas%20worth%20saving%20right%20now-pin-id.gif?raw=true" width="300" alt="hermione spell"/>
 </div>
 
----
+
 
 <div align="center">
 
