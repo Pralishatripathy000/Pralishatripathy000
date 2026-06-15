@@ -17,9 +17,23 @@
 ### `> AI.SYSTEMS()`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7DD3FC&center=true&vCenter=true&width=435&lines=Machine+Learning;Agentic+AI;LLMOps;Data+Engineering)](https://git.io/typing-svg)
+</div>
 
+---
+<div align="center">
+
+<h4><em>Most people see a problem. I see three layers beneath it — and I build from there.<br>
+I build what doesn't exist yet, with reasons no one thought to ask for.</em></h4>
+
+<sub>GenAI Engineer working on Machine learning systems, LLM internals, RAG pipelines, multi-agent architectures, and data engineering.<br>
+The unglamorous layer. The important one. The vibe? That's just me. ⚡</sub>
 
 </div>
+
+
+
+
+---
 
 <div align="center">
 
@@ -31,7 +45,7 @@
 | [📋 **AuditIQ**](https://github.com/Pralishatripathy000) | AI-powered procurement audit intelligence with anomaly detection & explainability | XGBoost · SHAP · PostgreSQL · Streamlit · Docker | ✅ Complete |
 | [🛒 **OptiNova Commerce**](https://github.com/Pralishatripathy000/OPTINOVA-COMMERCE) | Customer churn & conversion ML platform on real e-commerce data | XGBoost · Pandas · Scikit-learn · Streamlit | 🚀 Deployed |
 | [🏦 **FinLake**](https://github.com/Pralishatripathy000) | Modern financial data lakehouse with end-to-end pipeline orchestration | Spark · Airflow · dbt · MinIO · PostgreSQL · Streamlit | 🔨 Building |
-| [💳 **FraudLens**](https://github.com/Pralishatripathy000) | UPI fraud detection system with real-time risk scoring | XGBoost · Scikit-learn · Streamlit · SQL · Seaborn | 🔨 Building |
+| [💳 **FraudLens**](https://github.com/Pralishatripathy000) | UPI fraud detection system with real-time risk scoring | XGBoost · Scikit-learn · Streamlit · SQL · Seaborn | 🚀 Deployed  |
 | [🔍 **GitIntel**](https://github.com/Pralishatripathy000) | GitHub analytics & developer intelligence platform | GitHub API · Scikit-learn · PostgreSQL · Streamlit · Docker | 🔨 Building |
 | [🌌 **Under the Same Sky**](https://github.com/Pralishatripathy000) | AI-generated shared sky narratives connecting people across distances | Astronomy API · LLM · Location API · Streamlit | 🔨 Building |
 
