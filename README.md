@@ -19,12 +19,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7DD3FC&center=true&vCenter=true&width=435&lines=Machine+Learning;Agentic+AI;LLMOps;Data+Engineering)](https://git.io/typing-svg)
 
 
-<b>STATUS → BUILDING</b>
-
-
-<h3><i>AuditIQ • Lucid • GitIntel</i></h3>
-
 </div>
+
+
 
 ---
 
@@ -38,6 +35,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pralishatripathy000&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pralishatripathy000" />
 </p>
+
+<div align="center">
+  <img width="1180" height="793" alt="flagship_table" src="https://github.com/user-attachments/assets/284c6cbb-6085-473e-8ae4-0afe884ae49f" />
+ 
+</div>
 
 <div align="center">
  
