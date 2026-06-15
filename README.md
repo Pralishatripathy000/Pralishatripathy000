@@ -140,7 +140,7 @@
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 </p>
 </div>
----
+
 
 
 ## ✨ Beyond the Code : 
@@ -154,7 +154,7 @@
 🤝 Open To — collaborations, research discussions, hackathons, open-source contributions, and interesting conversations.
 </div>
 
----
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pralishatripathy000/Pralishatripathy000/pacman-output/pacman-contribution-graph-dark.svg">
