@@ -27,7 +27,7 @@
  *Most people see a problem. I see three layers beneath it — and I build from there.*
  *I build what doesn't exist yet, with reasons no one thought to ask for.*
 
- *GenAI Engineer working on LLM internals, RAG pipelines, machine learning systems, multi-agent architectures, and data engineering.*
+ *GenAI Engineer working on Machine learning systems, LLM internals, RAG pipelines, multi-agent architectures, and data engineering.*
  *The unglamorous layer. The important one. The vibe? That's just me. ⚡*
 
 <br>
