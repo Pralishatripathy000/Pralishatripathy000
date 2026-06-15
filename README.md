@@ -151,7 +151,7 @@
 🤝 Open To — collaborations, research discussions, hackathons, open-source contributions, and interesting conversations.
 </div>
 
-
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pralishatripathy000/Pralishatripathy000/pacman-output/pacman-contribution-graph-dark.svg">
