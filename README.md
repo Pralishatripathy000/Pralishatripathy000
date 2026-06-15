@@ -62,9 +62,15 @@ The unglamorous layer. The important one. The vibe? That's just me. ⚡</sub>
 </div>
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pralishatripathy000&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pralishatripathy000" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pralishatripathy000&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="languages graph" />
+  &nbsp;&nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pralishatripathy000.pralishatripathy000&left_color=blueviolet&right_color=black&left_text=Visitors" alt="visitors" />
+</div>
+
+
+
+---
 
 <div align="center">
  
