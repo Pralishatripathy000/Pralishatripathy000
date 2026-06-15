@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Update visitor count
-        uses: guided-hacking/github-profile-views-counter@main
+      - name: GitHub Profile Views Counter
+        uses: antonkomarev/github-profile-views-counter@1.1.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
