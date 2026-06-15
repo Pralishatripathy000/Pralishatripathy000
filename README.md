@@ -31,9 +31,8 @@ The unglamorous layer. The important one. The vibe? That's just me. ⚡</sub>
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/3f/e5/8f/3fe58f9f8768f88c41ec74a118b78c58.gif" width="300" alt="hermione spell"/>
+  <img src="https://github.com/Pralishatripathy000/Pralishatripathy000/blob/main/From%20Klickpin.com-%20Aesthetic%20morning%20routine%20ideas%20that%20make%20your%20next%20project%20look%20polished%20and%20expensive%20for%20ideas%20worth%20saving%20right%20now-pin-id.gif?raw=true" width="300" alt="hermione spell"/>
 </div>
-
 
 ---
 
