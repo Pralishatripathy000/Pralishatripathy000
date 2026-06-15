@@ -162,7 +162,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pralishatripathy000/Pralishatripathy000/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
----
+
 
 <h4 align="center">☕ Pull up a chair.</h4>
 
