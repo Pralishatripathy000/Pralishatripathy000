@@ -16,7 +16,7 @@
 
 ### `> AI.SYSTEMS()`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7DD3FC&center=true&vCenter=true&width=435&lines=Machine+Learning;Agentic+AI;LLMOps;Data+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7DD3FC&center=true&vCenter=true&width=435&lines=Machine+Learning++%26+MLOPs;Data+Engineering;LLMs+%26+LLMOPs;Agentic+AI;AI+Infrastructure)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -75,9 +75,7 @@
 </div>
 
 ---
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pralishatripathy000&theme=midnight_purple" width="100%" alt="profile summary"/>
-</div>
+
 
 
 <div align="center">
