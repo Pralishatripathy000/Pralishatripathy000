@@ -75,6 +75,10 @@
 </div>
 
 ---
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pralishatripathy000&theme=midnight_purple" width="100%" alt="profile summary"/>
+</div>
+
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pralishatripathy000&theme=react-dark&bg_color=0d1117&color=c792ea&line=7b2d8b&point=c792ea&area=true&hide_border=false&border_radius=5&area_color=2d1b54" alt="activity graph" width="100%"/>
@@ -110,20 +114,7 @@
 ---
 
 ## 🔮 The Dark Arts
-*LLM & GenAI — where the real magic happens*
-
-<p align="center">
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="langchain" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.trychroma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="chromadb" width="40" height="40"/></a>
-</p>
-
-
-
----
-
-## 🧪 Potions Class
-*ML & MLOps — brewing intelligence from data*
+*LLM, GenAI & ML — where the real magic happens*
 
 <p align="center">
   <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -131,9 +122,9 @@
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/></a>
 </p>
-
 
 
 ---
@@ -175,19 +166,9 @@
 
 ---
 
-## 🎨 Transfiguration
-*Frontend — transforming logic into experience*
 
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-</p>
-</div>
-
-
-
+<div align="left">
+ 
 ## ✨ Beyond the Code : 
 
 🧠 What Excites Me — good books, half-written stories, cities I haven't been to yet, cafes with the right kind of quiet, conversations that go somewhere unexpected, and people who have something real to say.
