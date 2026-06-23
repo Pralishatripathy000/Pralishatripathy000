@@ -57,7 +57,7 @@
 | [🔮 **Lucid**](https://github.com/Pralishatripathy000/lucid) | Two-layer LLM hallucination detection via PyTorch activation probing + QLoRA judge | PyTorch · Llama 3.2 3B · HuggingFace · LangChain · Streamlit | ✅ Complete |
 | [📋 **AuditIQ**](https://github.com/Pralishatripathy000) | AI-powered procurement audit intelligence with anomaly detection & explainability | XGBoost · SHAP · PostgreSQL · Streamlit · Docker | ✅ Complete |
 | [🛒 **OptiNova Commerce**](https://github.com/Pralishatripathy000/OPTINOVA-COMMERCE) | Customer churn & conversion ML platform on real e-commerce data | XGBoost · Pandas · Scikit-learn · Streamlit | 🚀 Deployed |
-| [🏦 **FinLake**](https://github.com/Pralishatripathy000) | Modern financial data lakehouse with end-to-end pipeline orchestration | Spark · Airflow · dbt · MinIO · PostgreSQL · Streamlit | 🔨 Building |
+| [🏦 **NovaLake**](https://github.com/Pralishatripathy000) | Intelligent Data Lifecycle Management Platform for Modern Lakehouses | Spark · Airflow · dbt · MinIO · PostgreSQL · Streamlit | 🔨 Building |
 | [💳 **FraudLens**](https://github.com/Pralishatripathy000) | UPI fraud detection system with real-time risk scoring | XGBoost · Scikit-learn · Streamlit · SQL · Seaborn | 🚀 Deployed  |
 | [🔍 **GitIntel**](https://github.com/Pralishatripathy000) | GitHub analytics & developer intelligence platform | GitHub API · Scikit-learn · PostgreSQL · Streamlit · Docker | 🔨 Building |
 | [🌌 **Under the Same Sky**](https://github.com/Pralishatripathy000) | AI-generated shared sky narratives connecting people across distances | Astronomy API · LLM · Location API · Streamlit | 🔨 Building |
